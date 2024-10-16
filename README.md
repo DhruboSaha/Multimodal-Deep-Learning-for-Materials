@@ -5,3 +5,6 @@ https://drive.google.com/drive/folders/1wPKqgeaxcWXDhFuZdTZ3l9CnBM9wuLVu?usp=dri
 https://drive.google.com/drive/folders/1nQq3rcrT6b3hM5IVQBrEZttAckMd9BfH?usp=drive_link
 
 Observe the format of how these folders are arranged. If you use your own image data, you must organize it in the same way. And you have to adjust the "directories" everywhere.
+
+Here's a video which gives a demonstration and walkthrough of all the code and data to make it easier to implement. Watch it to get a better understanding of this repo.
+https://drive.google.com/file/d/1klCIoML1hvnEEw6S5Tf5dJjk-z1Antf_/view?usp=drive_link
