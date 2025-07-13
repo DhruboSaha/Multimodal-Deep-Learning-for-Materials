@@ -12,4 +12,4 @@ https://drive.google.com/file/d/1klCIoML1hvnEEw6S5Tf5dJjk-z1Antf_/view?usp=drive
 The relevant paper is "A science directed progressive neural network for multimodal prediction of elastoplastic behavior in composite materials" published in Composites Part A. Please email me at dsaha36@gatech.edu or dhrubo.saha.117@gmail.com if you don't have access to the journal, and I will send you the paper.
 
 # Note
-This repository is currently outdated because the posted datasets and codes are from almost a year back, and many modifications and additions were made since. All the codes are also not uploaded yet. Before the end of July 2025, I will upload all the up-to-date code notebooks. 
+This repository is currently outdated because the posted datasets and codes are from almost a year back, and many modifications and additions were made since. All the codes were also not uploaded. Before the end of July 2025, I will upload all the up-to-date code notebooks. 
