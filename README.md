@@ -1,4 +1,8 @@
 # Multimodal deep learning for materials
+
+https://drive.google.com/drive/folders/1WmGYEBYD9PNwq-ylb7QaOl1zeMcSxdSI?usp=sharing
+https://drive.google.com/drive/folders/1nTGMuFYgIsCiH8-OIBo9TuPN6yUESRba?usp=sharing
+
 Below are the two CNN Image Datasets Used in the Research. One is for the main research and the other for the generalization test.
 https://drive.google.com/drive/folders/1wPKqgeaxcWXDhFuZdTZ3l9CnBM9wuLVu?usp=drive_link
 https://drive.google.com/drive/folders/1nQq3rcrT6b3hM5IVQBrEZttAckMd9BfH?usp=drive_link
