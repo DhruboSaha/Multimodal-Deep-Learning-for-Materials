@@ -2,27 +2,26 @@
 If you need help with anything, you can email the email addresses pasted in this ReadMe.
 
 # Step 1: Synthetic Data Generation
-First we must generate synthetic data for training of the CNN. The Notebook called is taken from the MEAP software.<br>
+First we must generate synthetic data for training the CNN. Notebook 1 above is the MEAP software.<br>
 MEAP Software GitHub: https://github.com/DhruboSaha/MEAP-RVE-Microstructure-Generator<br>
 MEAP Paper: https://www.sciencedirect.com/science/article/pii/S1359835X25004063?via%3Dihub#da005<br>
-Please cite the MEAP algorithm as well if you use it. 
+Please cite the MEAP paper if you use it. 
 
 # Step 2: CNN Instance Segmentation and Object Detection
 
-The following dataset links are pertinent to notebook 2.1. Notebook 2.1 is about an assortment of various shapes from the MEAP paper:<br>
+Notebook 2.1 is about an assortment of various shapes from the MEAP paper where we do both detection and segmentation. The training datasets as follows:<br>
 https://drive.google.com/drive/folders/1WmGYEBYD9PNwq-ylb7QaOl1zeMcSxdSI?usp=sharing<br>
 https://drive.google.com/drive/folders/1nTGMuFYgIsCiH8-OIBo9TuPN6yUESRba?usp=sharing<br>
 
-The following dataset links are pertinent to notebook 2.2:<br>
-This link is for polygons, which represent SiC particles:<br>
+This link is for detection on polygons, which represent SiC particles in notebook 2.2:<br>
 https://drive.google.com/drive/folders/1wPKqgeaxcWXDhFuZdTZ3l9CnBM9wuLVu?usp=drive_link<br>
-This link is for some shapes which represent CFRP:<br>
+This link is for detection of CFRP shapes in notebook 2.2:<br>
 https://drive.google.com/drive/folders/1nQq3rcrT6b3hM5IVQBrEZttAckMd9BfH?usp=drive_link<br>
 
 # Step 3: ANN or Shallow ML on quantified data
-The notebook on ANN on SiC-Al is demonstrated only for Young's Modulus. All other properties can be done in the same way.<br>
+Notebook 3.1 on ANN modelling of SiC-Al is demonstrated only for Young's Modulus. All other properties can be done in the same way.<br>
 
-Here's an old video which gives a demonstration of some of the code and data to make it easier to implement:<br>
+Here's an old video which gives a walkthrough of some of the code and data:<br>
 https://drive.google.com/file/d/1klCIoML1hvnEEw6S5Tf5dJjk-z1Antf_/view?usp=drive_link<br>
 Observe the format of how these folders are arranged. If you use your own image data, you must organize it in the same way. And you have to adjust the "directories" everywhere in the codes if necessary.
 
