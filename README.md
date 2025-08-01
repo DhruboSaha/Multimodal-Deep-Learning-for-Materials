@@ -1,9 +1,9 @@
 # Multimodal deep learning for materials
 
 # Step 1: Synthetic Data Generation
-First we must generate synthetic data for training of the CNN. The Notebook called is taken from the MEAP software.
-MEAP Software GitHub: https://github.com/DhruboSaha/MEAP-RVE-Microstructure-Generator
-MEAP Paper: https://www.sciencedirect.com/science/article/pii/S1359835X25004063?via%3Dihub#da005
+First we must generate synthetic data for training of the CNN. The Notebook called is taken from the MEAP software.<br>
+MEAP Software GitHub: https://github.com/DhruboSaha/MEAP-RVE-Microstructure-Generator<br>
+MEAP Paper: https://www.sciencedirect.com/science/article/pii/S1359835X25004063?via%3Dihub#da005<br>
 Please cite the MEAP algorithm as well if you use it. 
 
 # Step 2: CNN Instance Segmentation and Object Detection
