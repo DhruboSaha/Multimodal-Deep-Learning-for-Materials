@@ -1,4 +1,5 @@
 # Multimodal deep learning for materials
+If you need help with anything, you can email the email addresses pasted in this ReadMe.
 
 # Step 1: Synthetic Data Generation
 First we must generate synthetic data for training of the CNN. The Notebook called is taken from the MEAP software.<br>
